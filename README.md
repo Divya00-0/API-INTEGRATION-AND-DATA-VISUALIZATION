@@ -12,5 +12,7 @@ DURATION: 8 WEEKS
 
 MENTOR: NEELA SANTOSH
 
+TOOL:Google Colab
+
 OUTPUT:
 ![Image](https://github.com/user-attachments/assets/9c1c8b9f-fd40-4468-b581-10e242a9b592)
